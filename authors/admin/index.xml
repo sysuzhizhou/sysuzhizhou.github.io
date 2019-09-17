@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Zhou&#39;s Homepage</title>
+    <link>https://sysuzhizhou.github.io/authors/admin/</link>
+      <atom:link href="https://sysuzhizhou.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Zhou&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All Right Reserverd, 2019.</copyright>
+    <image>
+      <url>https://sysuzhizhou.github.io/img/icon-192.png</url>
+      <title>Zhi Zhou&#39;s Homepage</title>
+      <link>https://sysuzhizhou.github.io/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
